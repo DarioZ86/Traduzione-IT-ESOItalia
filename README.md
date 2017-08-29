@@ -4,24 +4,24 @@ Questi files sono il frutto di mesi di lavoro di un team di appassionati del mon
 
 Crediti:
 
-ESO Italia
-Alessandro Soluri
-catfed
-Cosimo IlGuru
-Dario Gulotta
-Federico Cesare Luigi Cattaneo
-FrankNat
-Iskadar
-Keris
-MrKarlaggio
-Pongista94
-Rikka
-Rojofiore
-salvatore Di Mauro
-SomeThing
-Spark3n
-tremors88
-zielonymlotek
+ESO Italia,
+Alessandro Soluri,
+catfed,
+Cosimo IlGuru,
+Dario Gulotta,
+Federico Cesare Luigi Cattaneo,
+FrankNat,
+Iskadar,
+Keris,
+MrKarlaggio,
+Pongista94,
+Rikka,
+Rojofiore,
+salvatore Di Mauro,
+SomeThing,
+Spark3n,
+tremors88,
+zielonymlotek,
 Utenti Anonimi
 
 
